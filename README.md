@@ -1,4 +1,4 @@
-# XLR?
+# cash huesh
 
 ![:nyako-git](https://count.getloli.com/get/@:c99sh?theme=asoul)
 
