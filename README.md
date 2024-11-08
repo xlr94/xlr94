@@ -1,4 +1,4 @@
-# cash huesh
+# две тысячи седьмой!
 
 ![:nyako-git](https://count.getloli.com/get/@:EmoTilt?theme=asoul)
 
