@@ -1,5 +1,5 @@
 # cash huesh
 
-![:nyako-git](https://count.getloli.com/get/@:2o07?theme=asoul)
+![:nyako-git](https://count.getloli.com/get/@:EmoTilt?theme=asoul)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,cs,java)](https://skillicons.dev)
