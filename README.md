@@ -4,11 +4,8 @@
 <i>[Мой телеграм канал](https://t.me/EmoTilt)</i>
 </p>
 <hr>
-<img src="https://skillicons.dev/icons?i=js,ts,react,docker,tailwind,nginx,arch&perline=3&theme=dark" alt="skillicons.dev">
-<br>
-
+<img src="https://skillicons.dev/icons?i=js,ts,react,docker,tailwind,nginx,arch&theme=dark" alt="skillicons.dev">
 <hr>
-
 <div align="center">
     
     Связаться со мной можно через:
