@@ -4,7 +4,7 @@
 <i>Мой телеграм канал - https://t.me/EmoTilt</i>
 </p>
 <hr>
-<img src="https://skillicons.dev/icons?i=js,ts,react,docker,tailwind,java,cs,nginx,arch&theme=dark" alt="skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,ts,react,docker,tailwind,java,cs,nginx,arch,vim&theme=dark" alt="skillicons.dev">
 <hr>
 <div align="center">
     
