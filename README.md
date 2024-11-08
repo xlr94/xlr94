@@ -1,7 +1,7 @@
-<h1 align="center">две тысячи седьмой</h1>
+<h1 align="left">две тысячи седьмой</h1>
 <h3>Привет!</h3>
 <p>
-<i>[Мой телеграм канал](https://t.me/EmoTilt)</i>
+<i>Мой телеграм канал - https://t.me/EmoTilt</i>
 </p>
 <hr>
 <img src="https://skillicons.dev/icons?i=js,ts,react,docker,tailwind,nginx,arch&theme=dark" alt="skillicons.dev">
