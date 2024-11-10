@@ -5,17 +5,16 @@
 </p>
 <img src="https://count.getloli.com/get/@:EmoTilt?theme=asoul">
 <hr>
-<div style="display: flex; justify-content: space-between">
     <div>
         <h3>Использую:</h3>
         <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,docker,nginx,arch,vim&perline=6&theme=dark" alt="skillicons.dev">
     </div>
+    <hr>
     <div>
         <h3>Также писал на:</h3>
         <img src="https://skillicons.dev/icons?i=java,python,cs&perline=6&theme=dark" align="left" alt="skillicons.dev">
         <p>У меня есть поверхностные знания этих языков. Я планирую глубже их изучить и начать активно применять на практике.</p>
     </div>
-</div>
 <hr>
 <div align="center">
     
