@@ -10,7 +10,6 @@
         <img src="https://skillicons.dev/icons?i=js,ts,bash&theme=dark" align="left" alt="skillicons.dev">
         <p style="font-size: 18px">Активно пишу на этих языках<br>JavaScript — мой первый язык программирования.</p>
     </div>
-    <br>
     <div>
         <h3>Использую эти технологии:</h3>
         <img src="https://skillicons.dev/icons?i=react,gulp,docker,nginx&theme=dark" align="left" alt="skillicons.dev">
