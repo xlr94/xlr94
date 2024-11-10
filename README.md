@@ -8,13 +8,13 @@
     <div>
         <h3>Владею:</h3>
         <img src="https://skillicons.dev/icons?i=js,ts,bash&theme=dark" align="left" alt="skillicons.dev">
-        <p style="font-size: 18px">Активно пишу на этих языках<br>JavaScript — мой первый язык программирования.</p>
+        <p style="font-size: 18px">Активно пишу на этих языках<br>**JavaScript** — мой первый язык программирования.</p>
     </div>
     <br>
     <div>
         <img src="https://skillicons.dev/icons?i=react,gulp,docker,nginx&theme=dark" align="right" alt="skillicons.dev">
         <h3>Использую эти технологии:</h3>
-        <p style="font-size: 18px">Они мне помогают с написанием кода, сборкой, развёртыванием проекта на сервере.<br><br>React — мой первый веб-фреймворк. Gulp я использую для сборки несложных проектов, где фреймворк не требуется. Всё остальное применяю для поднятия и развёртывания на сервере.</p>
+        <p style="font-size: 18px">Они мне помогают с написанием кода, сборкой, развёртыванием проекта на сервере.<br><br>**React** — мой первый веб-фреймворк. **Gulp** я использую для сборки несложных проектов, где фреймворк не требуется. Всё остальное применяю для поднятия и развёртывания на сервере.</p>
     </div>
     <hr>
     <div style="margin-top: 10px;">
