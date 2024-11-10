@@ -6,9 +6,15 @@
 <img src="https://count.getloli.com/get/@:EmoTilt?theme=asoul">
 <hr>
     <div>
-        <h3>Использую:</h3>
-        <img src="https://skillicons.dev/icons?i=js,ts,react,docker,nginx,arch&perline=3&theme=dark" align="left" alt="skillicons.dev">
-        <p style="font-size: 18px">Активно пишу на этих языках и использую перечисленные технологии.<br>Операционная система - Arch Linux</p>
+        <h3>Владею:</h3>
+        <img src="https://skillicons.dev/icons?i=js,ts,bash&perline=3&theme=dark" align="left" alt="skillicons.dev">
+        <p style="font-size: 18px">Активно пишу на этих языках.</p>
+    </div>
+    <br>
+    <div>
+        <h3>Использую эти технологии:</h3>
+        <img src="https://skillicons.dev/icons?i=react,gulp,docker,nginx&perline=3&theme=dark" align="left" alt="skillicons.dev">
+        <p style="font-size: 18px">Они мне помогают с написанием кода, сборкой, развёртыванием проекта на сервере.</p>
     </div>
     <br>
     <div>
