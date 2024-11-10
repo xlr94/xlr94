@@ -8,8 +8,7 @@
     <div>
         <h3>Использую:</h3>
         <img src="https://skillicons.dev/icons?i=js,ts,react,docker,nginx,arch&theme=dark" align="left" alt="skillicons.dev">
-        <p style="font-size: 18px">Активно пишу на этих языках и использую перечисленные технологии.<br />Операционная система - Arch Linux</p>
-        
+        <p style="font-size: 18px">Активно пишу на этих языках и использую перечисленные технологии.<br>Операционная система - Arch Linux</p>
     </div>
     <br>
     <div>
