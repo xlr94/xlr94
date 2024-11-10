@@ -15,8 +15,7 @@
         <img src="https://skillicons.dev/icons?i=react,gulp,docker,nginx&theme=dark" align="left" alt="skillicons.dev">
         <p style="font-size: 18px">Они мне помогают с написанием кода, сборкой, развёртыванием проекта на сервере.<br>React — мой первый веб-фреймворк. Gulp я использую для сборки несложных проектов.</p>
     </div>
-    <br>
-    <div>
+    <div style="margin-top: 10px;">
         <h3>Также писал на:</h3>
         <img src="https://skillicons.dev/icons?i=java,python,cs&perline=6&theme=dark" align="left" alt="skillicons.dev">
         <p>У меня есть поверхностные знания этих языков. Я планирую глубже их изучить и начать активно применять на практике.</p>
