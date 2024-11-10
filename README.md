@@ -7,7 +7,7 @@
 <hr>
     <div>
         <h3>Использую:</h3>
-        <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,docker,nginx,arch,vim&theme=dark" align="left" alt="skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,docker,nginx,arch,vim&perline=5&theme=dark" align="left" alt="skillicons.dev">
         <p style="font-size: 18px">Активно пишу на этих языках и использую перечисленные технологии.</p>
     </div>
     <hr>
