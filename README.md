@@ -3,6 +3,7 @@
 <p>
 <i>Мой телеграм канал - https://t.me/EmoTilt</i>
 </p>
+![:nyako-git](https://count.getloli.com/get/@:EmoTilt?theme=asoul)
 <hr>
 <img src="https://skillicons.dev/icons?i=js,ts,react,docker,tailwind,java,cs,nginx,arch,vim&perline=5&theme=dark" alt="skillicons.dev">
 <hr>
