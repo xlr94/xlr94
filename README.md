@@ -8,7 +8,7 @@
     <div>
         <h3>Владею:</h3>
         <img src="https://skillicons.dev/icons?i=js,ts,bash&theme=dark" align="left" alt="skillicons.dev">
-        <p style="font-size: 18px">Активно пишу на этих языках<br><b>JavaScript</b>b> — мой первый язык программирования.</p>
+        <p style="font-size: 18px">Активно пишу на этих языках<br><b>JavaScript</b> — мой первый язык программирования.</p>
     </div>
     <br>
     <div>
