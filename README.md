@@ -10,11 +10,13 @@
         <img src="https://skillicons.dev/icons?i=js,ts,bash&theme=dark" align="left" alt="skillicons.dev">
         <p style="font-size: 18px">Активно пишу на этих языках<br>JavaScript — мой первый язык программирования.</p>
     </div>
+    <hr>
     <div>
         <h3>Использую эти технологии:</h3>
         <img src="https://skillicons.dev/icons?i=react,gulp,docker,nginx&theme=dark" align="left" alt="skillicons.dev">
         <p style="font-size: 18px">Они мне помогают с написанием кода, сборкой, развёртыванием проекта на сервере.<br>React — мой первый веб-фреймворк. Gulp я использую для сборки несложных проектов.</p>
     </div>
+    <hr>
     <div style="margin-top: 10px;">
         <h3>Также писал на:</h3>
         <img src="https://skillicons.dev/icons?i=java,python,cs&perline=6&theme=dark" align="left" alt="skillicons.dev">
