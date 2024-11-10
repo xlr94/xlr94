@@ -7,13 +7,13 @@
 <hr>
     <div>
         <h3>Владею:</h3>
-        <img src="https://skillicons.dev/icons?i=js,ts,bash&perline=3&theme=dark" align="left" alt="skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,bash&theme=dark" align="left" alt="skillicons.dev">
         <p style="font-size: 18px">Активно пишу на этих языках.</p>
     </div>
     <br>
     <div>
         <h3>Использую эти технологии:</h3>
-        <img src="https://skillicons.dev/icons?i=react,gulp,docker,nginx&perline=3&theme=dark" align="left" alt="skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,gulp,docker,nginx&theme=dark" align="left" alt="skillicons.dev">
         <p style="font-size: 18px">Они мне помогают с написанием кода, сборкой, развёртыванием проекта на сервере.</p>
     </div>
     <br>
