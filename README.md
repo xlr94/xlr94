@@ -5,6 +5,7 @@
 </p>
 <img src="https://count.getloli.com/get/@:EmoTilt?theme=asoul">
 <hr>
+<h3>Использую:</h3>
 <p>Активно пишу на этих языках и использую перечисленные технологии</p>
 <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,docker,nginx,arch,vim&perline=6&theme=dark" align="left" alt="skillicons.dev">
 <hr>
