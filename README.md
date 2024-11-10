@@ -5,7 +5,7 @@
 </p>
 <img src="https://count.getloli.com/get/@:EmoTilt?theme=asoul">
 <hr>
-<img src="https://skillicons.dev/icons?i=js,ts,react,docker,tailwind,java,cs,nginx,arch,vim&perline=5&theme=dark" alt="skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,java,cs,docker,nginx,arch,vim&perline=5&theme=dark" alt="skillicons.dev">
 <hr>
 <div align="center">
     
